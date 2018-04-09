@@ -3,9 +3,9 @@
 namespace tests\parts;
 
 use PHPUnit\Framework\TestCase;
-use rammtw\commerceml\Product;
-use rammtw\commerceml\parsers\ProductParser;
-use rammtw\commerceml\builders\ProductBuilder;
+use Rammtw\commerceml\Product;
+use Rammtw\commerceml\parsers\ProductParser;
+use Rammtw\commerceml\builders\ProductBuilder;
 
 class ProductTest extends TestCase
 {

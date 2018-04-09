@@ -1,9 +1,9 @@
 <?php
 
-namespace rammtw\commerceml\builders;
+namespace Rammtw\commerceml\builders;
 
-use rammtw\commerceml\RequisitiesOrganisation;
-use rammtw\commerceml\helpers\DocumentHelper;
+use Rammtw\commerceml\RequisitiesOrganisation;
+use Rammtw\commerceml\helpers\DocumentHelper;
 
 class RequisitiesOrganisationBuilder
 {

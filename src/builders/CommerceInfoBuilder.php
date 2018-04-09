@@ -1,9 +1,9 @@
 <?php
 
-namespace rammtw\commerceml\builders;
+namespace Rammtw\commerceml\builders;
 
-use rammtw\commerceml\CommerceInfo;
-use rammtw\commerceml\helpers\DocumentHelper;
+use Rammtw\commerceml\CommerceInfo;
+use Rammtw\commerceml\helpers\DocumentHelper;
 
 class CommerceInfoBuilder
 {

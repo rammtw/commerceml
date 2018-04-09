@@ -1,9 +1,9 @@
 <?php
 
-namespace rammtw\commerceml\builders;
+namespace Rammtw\commerceml\builders;
 
-use rammtw\commerceml\ProductChar;
-use rammtw\commerceml\helpers\DocumentHelper;
+use Rammtw\commerceml\ProductChar;
+use Rammtw\commerceml\helpers\DocumentHelper;
 
 class ProductCharBuilder
 {

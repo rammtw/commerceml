@@ -1,9 +1,9 @@
 <?php
 
-namespace rammtw\commerceml\builders;
+namespace Rammtw\commerceml\builders;
 
-use rammtw\commerceml\BaseScale;
-use rammtw\commerceml\helpers\DocumentHelper;
+use Rammtw\commerceml\BaseScale;
+use Rammtw\commerceml\helpers\DocumentHelper;
 
 class BaseScaleBuilder
 {

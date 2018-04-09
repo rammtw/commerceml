@@ -1,11 +1,11 @@
 <?php
 
-namespace rammtw\commerceml;
+namespace Rammtw\commerceml;
 
-use rammtw\commerceml\Group;
-use rammtw\commerceml\Property;
-use rammtw\commerceml\PriceType;
-use rammtw\commerceml\Contragent;
+use Rammtw\commerceml\Group;
+use Rammtw\commerceml\Property;
+use Rammtw\commerceml\PriceType;
+use Rammtw\commerceml\Contragent;
 
 class Classifier extends Model
 {

@@ -68,5 +68,5 @@ class Psr4AutoloaderClass
 
 $loader = new Psr4AutoloaderClass();
 $loader->addNamespace('tests', __DIR__.'/../tests');
-$loader->addNamespace('rammtw\commerceml', __DIR__.'/../src');
+$loader->addNamespace('Rammtw\commerceml', __DIR__.'/../src');
 $loader->register();

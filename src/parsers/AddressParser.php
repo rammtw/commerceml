@@ -1,8 +1,8 @@
 <?php
 
-namespace rammtw\commerceml\parsers;
+namespace Rammtw\commerceml\parsers;
 
-use rammtw\commerceml\Address;
+use Rammtw\commerceml\Address;
 
 class AddressParser
 {

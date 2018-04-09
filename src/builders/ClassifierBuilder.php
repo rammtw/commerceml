@@ -1,9 +1,9 @@
 <?php
 
-namespace rammtw\commerceml\builders;
+namespace Rammtw\commerceml\builders;
 
-use rammtw\commerceml\Classifier;
-use rammtw\commerceml\helpers\DocumentHelper;
+use Rammtw\commerceml\Classifier;
+use Rammtw\commerceml\helpers\DocumentHelper;
 
 class ClassifierBuilder
 {

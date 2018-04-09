@@ -1,6 +1,6 @@
 <?php
 
-namespace rammtw\commerceml;
+namespace Rammtw\commerceml;
 
 class DocumentContragent extends Contragent
 {

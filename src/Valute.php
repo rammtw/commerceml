@@ -1,6 +1,6 @@
 <?php
 
-namespace rammtw\commerceml;
+namespace Rammtw\commerceml;
 
 /**
  * Код валюты по международному классификатору валют (ISO 4217).

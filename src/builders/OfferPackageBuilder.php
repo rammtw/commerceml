@@ -1,9 +1,9 @@
 <?php
 
-namespace rammtw\commerceml\builders;
+namespace Rammtw\commerceml\builders;
 
-use rammtw\commerceml\OfferPackage;
-use rammtw\commerceml\helpers\DocumentHelper;
+use Rammtw\commerceml\OfferPackage;
+use Rammtw\commerceml\helpers\DocumentHelper;
 
 class OfferPackageBuilder
 {

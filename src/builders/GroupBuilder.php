@@ -1,9 +1,9 @@
 <?php
 
-namespace rammtw\commerceml\builders;
+namespace Rammtw\commerceml\builders;
 
-use rammtw\commerceml\Group;
-use rammtw\commerceml\helpers\DocumentHelper;
+use Rammtw\commerceml\Group;
+use Rammtw\commerceml\helpers\DocumentHelper;
 
 class GroupBuilder
 {

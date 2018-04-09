@@ -1,9 +1,9 @@
 <?php
 
-namespace rammtw\commerceml\builders;
+namespace Rammtw\commerceml\builders;
 
-use rammtw\commerceml\Valute;
-use rammtw\commerceml\helpers\DocumentHelper;
+use Rammtw\commerceml\Valute;
+use Rammtw\commerceml\helpers\DocumentHelper;
 
 class ValuteBuilder
 {

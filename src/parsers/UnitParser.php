@@ -1,8 +1,8 @@
 <?php
 
-namespace rammtw\commerceml\parsers;
+namespace Rammtw\commerceml\parsers;
 
-use rammtw\commerceml\Unit;
+use Rammtw\commerceml\Unit;
 
 class UnitParser
 {

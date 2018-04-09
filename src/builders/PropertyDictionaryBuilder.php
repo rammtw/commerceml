@@ -1,9 +1,9 @@
 <?php
 
-namespace rammtw\commerceml\builders;
+namespace Rammtw\commerceml\builders;
 
-use rammtw\commerceml\PropertyDictionary;
-use rammtw\commerceml\helpers\DocumentHelper;
+use Rammtw\commerceml\PropertyDictionary;
+use Rammtw\commerceml\helpers\DocumentHelper;
 
 class PropertyDictionaryBuilder
 {

@@ -1,9 +1,9 @@
 <?php
 
-namespace rammtw\commerceml\builders;
+namespace Rammtw\commerceml\builders;
 
-use rammtw\commerceml\Address;
-use rammtw\commerceml\helpers\DocumentHelper;
+use Rammtw\commerceml\Address;
+use Rammtw\commerceml\helpers\DocumentHelper;
 
 class AddressBuilder
 {

@@ -1,9 +1,9 @@
 <?php
 
-namespace rammtw\commerceml\builders;
+namespace Rammtw\commerceml\builders;
 
-use rammtw\commerceml\RequisiteValue;
-use rammtw\commerceml\helpers\DocumentHelper;
+use Rammtw\commerceml\RequisiteValue;
+use Rammtw\commerceml\helpers\DocumentHelper;
 
 class RequisiteValueBuilder
 {

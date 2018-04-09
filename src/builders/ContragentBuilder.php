@@ -1,9 +1,9 @@
 <?php
 
-namespace rammtw\commerceml\builders;
+namespace Rammtw\commerceml\builders;
 
-use rammtw\commerceml\Contragent;
-use rammtw\commerceml\helpers\DocumentHelper;
+use Rammtw\commerceml\Contragent;
+use Rammtw\commerceml\helpers\DocumentHelper;
 
 class ContragentBuilder
 {

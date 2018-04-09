@@ -1,9 +1,9 @@
 <?php
 
-namespace rammtw\commerceml\builders;
+namespace Rammtw\commerceml\builders;
 
-use rammtw\commerceml\Property;
-use rammtw\commerceml\helpers\DocumentHelper;
+use Rammtw\commerceml\Property;
+use Rammtw\commerceml\helpers\DocumentHelper;
 
 class PropertyBuilder
 {

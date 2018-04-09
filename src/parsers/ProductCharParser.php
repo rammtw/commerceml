@@ -1,8 +1,8 @@
 <?php
 
-namespace rammtw\commerceml\parsers;
+namespace Rammtw\commerceml\parsers;
 
-use rammtw\commerceml\ProductChar;
+use Rammtw\commerceml\ProductChar;
 
 class ProductCharParser
 {

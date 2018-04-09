@@ -1,9 +1,9 @@
 <?php
 
-namespace rammtw\commerceml\builders;
+namespace Rammtw\commerceml\builders;
 
-use rammtw\commerceml\Bank;
-use rammtw\commerceml\helpers\DocumentHelper;
+use Rammtw\commerceml\Bank;
+use Rammtw\commerceml\helpers\DocumentHelper;
 
 class BankBuilder
 {

@@ -1,8 +1,8 @@
 <?php
 
-namespace rammtw\commerceml\parsers;
+namespace Rammtw\commerceml\parsers;
 
-use rammtw\commerceml\DocumentProduct;
+use Rammtw\commerceml\DocumentProduct;
 
 class DocumentProductParser
 {

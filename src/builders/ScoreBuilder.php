@@ -1,9 +1,9 @@
 <?php
 
-namespace rammtw\commerceml\builders;
+namespace Rammtw\commerceml\builders;
 
-use rammtw\commerceml\Score;
-use rammtw\commerceml\helpers\DocumentHelper;
+use Rammtw\commerceml\Score;
+use Rammtw\commerceml\helpers\DocumentHelper;
 
 class ScoreBuilder
 {

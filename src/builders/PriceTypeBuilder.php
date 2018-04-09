@@ -1,9 +1,9 @@
 <?php
 
-namespace rammtw\commerceml\builders;
+namespace Rammtw\commerceml\builders;
 
-use rammtw\commerceml\PriceType;
-use rammtw\commerceml\helpers\DocumentHelper;
+use Rammtw\commerceml\PriceType;
+use Rammtw\commerceml\helpers\DocumentHelper;
 
 class PriceTypeBuilder
 {

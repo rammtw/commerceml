@@ -1,10 +1,10 @@
 <?php
 
-namespace rammtw\commerceml\builders;
+namespace Rammtw\commerceml\builders;
 
-use rammtw\commerceml\Price;
-use rammtw\commerceml\Valute;
-use rammtw\commerceml\helpers\DocumentHelper;
+use Rammtw\commerceml\Price;
+use Rammtw\commerceml\Valute;
+use Rammtw\commerceml\helpers\DocumentHelper;
 
 class PriceBuilder
 {

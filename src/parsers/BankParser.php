@@ -1,8 +1,8 @@
 <?php
 
-namespace rammtw\commerceml\parsers;
+namespace Rammtw\commerceml\parsers;
 
-use rammtw\commerceml\Bank;
+use Rammtw\commerceml\Bank;
 
 class BankParser
 {

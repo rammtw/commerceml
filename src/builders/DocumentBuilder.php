@@ -1,10 +1,10 @@
 <?php
 
-namespace rammtw\commerceml\builders;
+namespace Rammtw\commerceml\builders;
 
-use rammtw\commerceml\Valute;
-use rammtw\commerceml\Document;
-use rammtw\commerceml\helpers\DocumentHelper;
+use Rammtw\commerceml\Valute;
+use Rammtw\commerceml\Document;
+use Rammtw\commerceml\helpers\DocumentHelper;
 
 class DocumentBuilder
 {

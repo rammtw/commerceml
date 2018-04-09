@@ -1,9 +1,9 @@
 <?php
 
-namespace rammtw\commerceml\builders;
+namespace Rammtw\commerceml\builders;
 
-use rammtw\commerceml\Accessory;
-use rammtw\commerceml\helpers\DocumentHelper;
+use Rammtw\commerceml\Accessory;
+use Rammtw\commerceml\helpers\DocumentHelper;
 
 class AccessoryBuilder
 {

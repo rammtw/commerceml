@@ -1,0 +1,11 @@
+{
+    "name": "rammtw/cml",
+    "type": "library",
+    "authors": [
+        {
+            "name": "rammtw",
+            "email": "rammtw@gmail.com"
+        }
+    ],
+    "require": {}
+}

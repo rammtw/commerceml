@@ -1,9 +1,9 @@
 <?php
 
-namespace irpsv\commerceml\builders;
+namespace rammtw\commerceml\builders;
 
-use irpsv\commerceml\StoreCount;
-use irpsv\commerceml\helpers\DocumentHelper;
+use rammtw\commerceml\StoreCount;
+use rammtw\commerceml\helpers\DocumentHelper;
 
 class StoreCountBuilder
 {

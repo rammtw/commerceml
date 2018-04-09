@@ -1,6 +1,6 @@
 <?php
 
-namespace irpsv\commerceml;
+namespace rammtw\commerceml;
 
 class OrganisationHead extends Model
 {

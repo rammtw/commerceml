@@ -1,8 +1,8 @@
 <?php
 
-namespace irpsv\commerceml\parsers;
+namespace rammtw\commerceml\parsers;
 
-use irpsv\commerceml\Representative;
+use rammtw\commerceml\Representative;
 
 class RepresentativeParser
 {

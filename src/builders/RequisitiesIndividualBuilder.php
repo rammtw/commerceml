@@ -1,9 +1,9 @@
 <?php
 
-namespace irpsv\commerceml\builders;
+namespace rammtw\commerceml\builders;
 
-use irpsv\commerceml\RequisitiesIndividual;
-use irpsv\commerceml\helpers\DocumentHelper;
+use rammtw\commerceml\RequisitiesIndividual;
+use rammtw\commerceml\helpers\DocumentHelper;
 
 class RequisitiesIndividualBuilder
 {

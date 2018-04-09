@@ -1,9 +1,9 @@
 <?php
 
-namespace irpsv\commerceml\builders;
+namespace rammtw\commerceml\builders;
 
-use irpsv\commerceml\DocumentProduct;
-use irpsv\commerceml\helpers\DocumentHelper;
+use rammtw\commerceml\DocumentProduct;
+use rammtw\commerceml\helpers\DocumentHelper;
 
 class DocumentProductBuilder
 {

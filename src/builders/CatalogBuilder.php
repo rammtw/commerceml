@@ -1,9 +1,9 @@
 <?php
 
-namespace irpsv\commerceml\builders;
+namespace rammtw\commerceml\builders;
 
-use irpsv\commerceml\Catalog;
-use irpsv\commerceml\helpers\DocumentHelper;
+use rammtw\commerceml\Catalog;
+use rammtw\commerceml\helpers\DocumentHelper;
 
 class CatalogBuilder
 {

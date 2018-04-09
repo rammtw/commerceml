@@ -1,9 +1,9 @@
 <?php
 
-namespace irpsv\commerceml\builders;
+namespace rammtw\commerceml\builders;
 
-use irpsv\commerceml\Tax;
-use irpsv\commerceml\helpers\DocumentHelper;
+use rammtw\commerceml\Tax;
+use rammtw\commerceml\helpers\DocumentHelper;
 
 class TaxBuilder
 {

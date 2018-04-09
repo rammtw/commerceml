@@ -1,6 +1,6 @@
 <?php
 
-namespace irpsv\commerceml;
+namespace rammtw\commerceml;
 
 class Excise extends Model
 {

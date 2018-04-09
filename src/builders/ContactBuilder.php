@@ -1,9 +1,9 @@
 <?php
 
-namespace irpsv\commerceml\builders;
+namespace rammtw\commerceml\builders;
 
-use irpsv\commerceml\Contact;
-use irpsv\commerceml\helpers\DocumentHelper;
+use rammtw\commerceml\Contact;
+use rammtw\commerceml\helpers\DocumentHelper;
 
 class ContactBuilder
 {

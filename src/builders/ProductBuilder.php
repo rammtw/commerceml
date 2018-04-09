@@ -1,10 +1,10 @@
 <?php
 
-namespace irpsv\commerceml\builders;
+namespace rammtw\commerceml\builders;
 
-use irpsv\commerceml\Product;
-use irpsv\commerceml\Picture;
-use irpsv\commerceml\helpers\DocumentHelper;
+use rammtw\commerceml\Product;
+use rammtw\commerceml\Picture;
+use rammtw\commerceml\helpers\DocumentHelper;
 
 class ProductBuilder
 {

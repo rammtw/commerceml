@@ -1,9 +1,9 @@
 <?php
 
-namespace irpsv\commerceml\builders;
+namespace rammtw\commerceml\builders;
 
-use irpsv\commerceml\Payment;
-use irpsv\commerceml\helpers\DocumentHelper;
+use rammtw\commerceml\Payment;
+use rammtw\commerceml\helpers\DocumentHelper;
 
 class PaymentBuilder
 {

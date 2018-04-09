@@ -3,16 +3,16 @@
 namespace tests;
 
 use PHPUnit\Framework\TestCase;
-use irpsv\commerceml\Bank;
-use irpsv\commerceml\Address;
-use irpsv\commerceml\Product;
-use irpsv\commerceml\BaseScale;
-use irpsv\commerceml\TaxRate;
-use irpsv\commerceml\ProductChar;
-use irpsv\commerceml\RequisiteValue;
-use irpsv\commerceml\RequisitiesOrganisation;
-use irpsv\commerceml\parsers\CommerceInfoParser;
-use irpsv\commerceml\builders\CommerceInfoBuilder;
+use rammtw\commerceml\Bank;
+use rammtw\commerceml\Address;
+use rammtw\commerceml\Product;
+use rammtw\commerceml\BaseScale;
+use rammtw\commerceml\TaxRate;
+use rammtw\commerceml\ProductChar;
+use rammtw\commerceml\RequisiteValue;
+use rammtw\commerceml\RequisitiesOrganisation;
+use rammtw\commerceml\parsers\CommerceInfoParser;
+use rammtw\commerceml\builders\CommerceInfoBuilder;
 
 class OrdersXmlTest extends TestCase
 {

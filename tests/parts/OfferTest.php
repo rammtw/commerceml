@@ -3,9 +3,9 @@
 namespace tests\parts;
 
 use PHPUnit\Framework\TestCase;
-use irpsv\commerceml\Offer;
-use irpsv\commerceml\parsers\OfferParser;
-use irpsv\commerceml\builders\OfferBuilder;
+use rammtw\commerceml\Offer;
+use rammtw\commerceml\parsers\OfferParser;
+use rammtw\commerceml\builders\OfferBuilder;
 
 class OfferTest extends TestCase
 {

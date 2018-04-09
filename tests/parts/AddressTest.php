@@ -3,9 +3,9 @@
 namespace tests\parts;
 
 use PHPUnit\Framework\TestCase;
-use irpsv\commerceml\Address;
-use irpsv\commerceml\parsers\AddressParser;
-use irpsv\commerceml\builders\AddressBuilder;
+use rammtw\commerceml\Address;
+use rammtw\commerceml\parsers\AddressParser;
+use rammtw\commerceml\builders\AddressBuilder;
 
 class AddressTest extends TestCase
 {

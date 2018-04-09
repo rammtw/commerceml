@@ -1,8 +1,8 @@
 <?php
 
-namespace irpsv\commerceml\parsers;
+namespace rammtw\commerceml\parsers;
 
-use irpsv\commerceml\PriceType;
+use rammtw\commerceml\PriceType;
 
 class PriceTypeParser
 {

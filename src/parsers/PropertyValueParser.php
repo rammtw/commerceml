@@ -1,8 +1,8 @@
 <?php
 
-namespace irpsv\commerceml\parsers;
+namespace rammtw\commerceml\parsers;
 
-use irpsv\commerceml\PropertyValue;
+use rammtw\commerceml\PropertyValue;
 
 class PropertyValueParser
 {

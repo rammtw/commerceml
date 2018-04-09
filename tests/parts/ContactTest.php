@@ -3,9 +3,9 @@
 namespace tests\parts;
 
 use PHPUnit\Framework\TestCase;
-use irpsv\commerceml\Contact;
-use irpsv\commerceml\parsers\ContactParser;
-use irpsv\commerceml\builders\ContactBuilder;
+use rammtw\commerceml\Contact;
+use rammtw\commerceml\parsers\ContactParser;
+use rammtw\commerceml\builders\ContactBuilder;
 
 class ContactTest extends TestCase
 {

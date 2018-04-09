@@ -1,8 +1,8 @@
 <?php
 
-namespace irpsv\commerceml\parsers;
+namespace rammtw\commerceml\parsers;
 
-use irpsv\commerceml\DocumentContragent;
+use rammtw\commerceml\DocumentContragent;
 
 class DocumentContragentParser
 {

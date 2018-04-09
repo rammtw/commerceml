@@ -3,9 +3,9 @@
 namespace tests\parts;
 
 use PHPUnit\Framework\TestCase;
-use irpsv\commerceml\Document;
-use irpsv\commerceml\parsers\DocumentParser;
-use irpsv\commerceml\builders\DocumentBuilder;
+use rammtw\commerceml\Document;
+use rammtw\commerceml\parsers\DocumentParser;
+use rammtw\commerceml\builders\DocumentBuilder;
 
 class DocumentTest extends TestCase
 {

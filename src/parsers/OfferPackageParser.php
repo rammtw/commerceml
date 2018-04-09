@@ -1,8 +1,8 @@
 <?php
 
-namespace irpsv\commerceml\parsers;
+namespace rammtw\commerceml\parsers;
 
-use irpsv\commerceml\OfferPackage;
+use rammtw\commerceml\OfferPackage;
 
 class OfferPackageParser
 {

@@ -1,9 +1,9 @@
 <?php
 
-namespace irpsv\commerceml\builders;
+namespace rammtw\commerceml\builders;
 
-use irpsv\commerceml\Address;
-use irpsv\commerceml\helpers\DocumentHelper;
+use rammtw\commerceml\Address;
+use rammtw\commerceml\helpers\DocumentHelper;
 
 class AddressBuilder
 {

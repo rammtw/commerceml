@@ -1,8 +1,8 @@
 <?php
 
-namespace irpsv\commerceml\parsers;
+namespace rammtw\commerceml\parsers;
 
-use irpsv\commerceml\Score;
+use rammtw\commerceml\Score;
 
 class ScoreParser
 {

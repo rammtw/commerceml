@@ -1,9 +1,9 @@
 <?php
 
-namespace irpsv\commerceml\builders;
+namespace rammtw\commerceml\builders;
 
-use irpsv\commerceml\Representative;
-use irpsv\commerceml\helpers\DocumentHelper;
+use rammtw\commerceml\Representative;
+use rammtw\commerceml\helpers\DocumentHelper;
 
 class RepresentativeBuilder
 {

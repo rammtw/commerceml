@@ -3,9 +3,9 @@
 namespace tests\parts;
 
 use PHPUnit\Framework\TestCase;
-use irpsv\commerceml\Accessory;
-use irpsv\commerceml\parsers\AccessoryParser;
-use irpsv\commerceml\builders\AccessoryBuilder;
+use rammtw\commerceml\Accessory;
+use rammtw\commerceml\parsers\AccessoryParser;
+use rammtw\commerceml\builders\AccessoryBuilder;
 
 class AccessoryTest extends TestCase
 {

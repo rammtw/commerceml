@@ -1,9 +1,9 @@
 <?php
 
-namespace irpsv\commerceml\builders;
+namespace rammtw\commerceml\builders;
 
-use irpsv\commerceml\Accessory;
-use irpsv\commerceml\helpers\DocumentHelper;
+use rammtw\commerceml\Accessory;
+use rammtw\commerceml\helpers\DocumentHelper;
 
 class AccessoryBuilder
 {

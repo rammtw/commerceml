@@ -1,9 +1,9 @@
 <?php
 
-namespace irpsv\commerceml\builders;
+namespace rammtw\commerceml\builders;
 
-use irpsv\commerceml\DocumentContragent;
-use irpsv\commerceml\helpers\DocumentHelper;
+use rammtw\commerceml\DocumentContragent;
+use rammtw\commerceml\helpers\DocumentHelper;
 
 class DocumentContragentBuilder
 {

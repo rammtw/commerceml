@@ -1,6 +1,6 @@
 <?php
 
-namespace irpsv\commerceml\helpers;
+namespace rammtw\commerceml\helpers;
 
 class DocumentHelper
 {

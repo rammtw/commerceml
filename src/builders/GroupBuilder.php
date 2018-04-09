@@ -1,9 +1,9 @@
 <?php
 
-namespace irpsv\commerceml\builders;
+namespace rammtw\commerceml\builders;
 
-use irpsv\commerceml\Group;
-use irpsv\commerceml\helpers\DocumentHelper;
+use rammtw\commerceml\Group;
+use rammtw\commerceml\helpers\DocumentHelper;
 
 class GroupBuilder
 {
